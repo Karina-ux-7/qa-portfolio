@@ -89,3 +89,26 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o nome de u
 
 **Status:**  
 Aprovado
+
+## CT-005 — Login com usuário bloqueado
+
+**Objetivo:**  
+Validar que um usuário bloqueado não consiga acessar o sistema.
+
+**Pré-condição:**  
+Estar na tela de login.
+
+**Passos:**
+1. Acessar a tela de login
+2. Informar o usuário `locked_out_user`
+3. Informar a senha `secret_sauce`
+4. Clicar em Login
+
+**Resultado esperado:**  
+O sistema deve impedir o acesso e informar que o usuário está bloqueado.
+
+**Resultado obtido:**  
+O acesso foi impedido e o sistema exibiu a mensagem informando que o usuário está bloqueado.
+
+**Status:**  
+Aprovado
