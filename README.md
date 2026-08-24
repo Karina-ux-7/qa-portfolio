@@ -1,5 +1,4 @@
-# qa-portfolio
-Portfólio de Quality Assurance com testes manuais, API, SQL e automação.
+
 # QA Portfolio — Karina
 
 Bem-vindo ao meu portfólio de **Quality Assurance**.
