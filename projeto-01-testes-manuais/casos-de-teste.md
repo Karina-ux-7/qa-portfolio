@@ -66,3 +66,26 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o usuário 
 
 **Status:**  
 Aprovado
+
+## CT-004 — Login com campos vazios
+
+**Objetivo:**  
+Validar que o sistema não permita o login quando os campos obrigatórios estiverem vazios.
+
+**Pré-condição:**  
+Estar na tela de login.
+
+**Passos:**
+1. Acessar a tela de login
+2. Deixar o campo de usuário vazio
+3. Deixar o campo de senha vazio
+4. Clicar em Login
+
+**Resultado esperado:**  
+O sistema deve impedir o acesso e informar que o campo de usuário é obrigatório.
+
+**Resultado obtido:**  
+O acesso foi impedido e o sistema exibiu uma mensagem informando que o nome de usuário é obrigatório.
+
+**Status:**  
+Aprovado
