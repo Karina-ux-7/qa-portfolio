@@ -21,6 +21,9 @@ Login realizado com sucesso e usuário direcionado para a tela de produtos.
 **Status:**  
 Aprovado
 
+**Evidência:**  
+[Ver evidência CT-001](evidencias/CT-001-login-valido.png)
+
 ## CT-002 — Login com usuário inválido
 
 **Objetivo:**  
@@ -43,6 +46,9 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o usuário 
 
 **Status:**  
 Aprovado
+
+**Evidência:**  
+[Ver evidência CT-002](evidencias/CT-002-usuário-inválido.png)
 
 ## CT-003 — Login com senha inválida
 
@@ -67,6 +73,9 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o usuário 
 **Status:**  
 Aprovado
 
+**Evidência:**  
+[Ver evidência CT-003](evidencias/CT-003-senha-inválida.png)
+
 ## CT-004 — Login com campos vazios
 
 **Objetivo:**  
@@ -90,6 +99,9 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o nome de u
 **Status:**  
 Aprovado
 
+**Evidência:**  
+[Ver evidência CT-004](evidencias/CT-004-campos-vazios.png)
+
 ## CT-005 — Login com usuário bloqueado
 
 **Objetivo:**  
@@ -112,3 +124,7 @@ O acesso foi impedido e o sistema exibiu a mensagem informando que o usuário es
 
 **Status:**  
 Aprovado
+
+**Evidência:**  
+[Ver evidência CT-005](evidencias/CT-005-usuario-bloqueado.png)
+
