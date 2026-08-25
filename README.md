@@ -1,19 +1,19 @@
-
-# QA Portfolio — Karina
+# Portfólio de Quality Assurance Karina
 
 Bem-vindo ao meu portfólio de **Quality Assurance**.
 
 Este repositório reúne projetos práticos desenvolvidos durante minha evolução profissional em QA, com foco em **qualidade de software, análise de cenários, documentação de testes, investigação de bugs e automação**.
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou profissional de **Quality Assurance**, com experiência e estudos voltados para testes de software e melhoria contínua da qualidade.
 
 Meu objetivo com este portfólio é demonstrar, na prática, minha evolução técnica através de projetos documentados e reproduzíveis.
 
-## 🧪 O que você encontrará aqui
+## O que você encontra aqui
 
 ### Testes Manuais
+
 - Cenários de teste
 - Casos de teste
 - Testes positivos e negativos
@@ -24,6 +24,7 @@ Meu objetivo com este portfólio é demonstrar, na prática, minha evolução t�
 - Evidências de execução
 
 ### Testes de API
+
 - Postman
 - Requisições GET, POST, PUT, PATCH e DELETE
 - Validação de Status Codes
@@ -32,34 +33,40 @@ Meu objetivo com este portfólio é demonstrar, na prática, minha evolução t�
 - Collections e Environments
 
 ### Banco de Dados
+
 - SQL aplicado a QA
 - Consultas para validação de dados
 - Investigação de inconsistências
 
 ### Automação
+
 - Playwright
 - Testes End-to-End
 - Page Object Model
 - Boas práticas de automação
 - Integração com GitHub Actions
 
-## 📂 Projetos
+## Projetos
 
-### 🧪 Projeto 01 — Testes Manuais
+### Projeto 01 Testes Manuais
+
 Em desenvolvimento.
 
 Aplicação de técnicas de testes funcionais e exploratórios em uma aplicação web, incluindo criação de cenários, execução, documentação de bugs e evidências.
 
-### 🔌 Projeto 02 — API Testing com Postman
+### Projeto 02 API Testing com Postman
+
 Em breve.
 
-### 🗄️ Projeto 03 — SQL para QA
+### Projeto 03 SQL para QA
+
 Em breve.
 
-### 🤖 Projeto 04 — Automação com Playwright
+### Projeto 04 Automação com Playwright
+
 Em breve.
 
-## 🎯 Objetivo
+## Objetivo
 
 Utilizar projetos práticos para desenvolver competências importantes para Quality Assurance e demonstrar minha capacidade de:
 
@@ -72,11 +79,11 @@ Utilizar projetos práticos para desenvolver competências importantes para Qual
 - Automatizar cenários de teste
 - Investigar problemas de forma estruturada
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 `Jira` • `Postman` • `SQL` • `Git` • `GitHub` • `Playwright` • `Python`
 
-## 📚 Em desenvolvimento
+## Em desenvolvimento
 
 Atualmente aprofundando conhecimentos em:
 
@@ -86,8 +93,3 @@ Atualmente aprofundando conhecimentos em:
 - SQL para QA
 - Automação de testes com Playwright
 - CI/CD
-
----
-
-**Karina**  
-Quality Assurance
