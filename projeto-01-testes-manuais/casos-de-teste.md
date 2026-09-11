@@ -48,7 +48,7 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o usuário 
 Aprovado
 
 **Evidência:**  
-[Ver evidência CT-002](evidencias/CT-002-usuário-inválido.png)
+[Ver evidência CT-002](evidencias/CT-002-usuario-invalido.png)
 
 ## CT-003 — Login com senha inválida
 
@@ -74,7 +74,7 @@ O acesso foi impedido e o sistema exibiu uma mensagem informando que o usuário 
 Aprovado
 
 **Evidência:**  
-[Ver evidência CT-003](evidencias/CT-003-senha-inválida.png)
+[Ver evidência CT-003](evidencias/CT-003-senha-invalida.png)
 
 ## CT-004 — Login com campos vazios
 
@@ -153,7 +153,7 @@ O produto foi adicionado ao carrinho com sucesso, o botão foi alterado para Rem
 Aprovado
 
 **Evidência:**  
-[Ver evidência CT-006](evidencias/CT-006-adicionar-produto-carrinho1.png)
+[Ver evidência CT-006](evidencias/CT-006adicionar-produto-carrinho1.png)
 
 ## CT-007 — Remover produto do carrinho
 
