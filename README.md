@@ -50,9 +50,9 @@ Meu objetivo com este portfólio é demonstrar, na prática, minha evolução t�
 
 ### Projeto 01 Testes Manuais
 
-Em desenvolvimento.
+Concluído.
 
-Aplicação de técnicas de testes funcionais e exploratórios em uma aplicação web, incluindo criação de cenários, execução, documentação de bugs e evidências.
+Execução de 12 casos de teste manuais na aplicação SauceDemo, cobrindo login, carrinho e checkout, com documentação de resultados e evidências de execução.
 
 ### Projeto 02 API Testing com Postman
 
