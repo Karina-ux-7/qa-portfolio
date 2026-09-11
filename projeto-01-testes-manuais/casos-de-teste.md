@@ -128,3 +128,29 @@ Aprovado
 **Evidência:**  
 [Ver evidência CT-005](evidencias/CT-005-usuario-bloqueado.png)
 
+## CT-006 — Adicionar produto ao carrinho
+
+**Objetivo:**  
+Validar que um produto possa ser adicionado corretamente ao carrinho.
+
+**Pré-condição:**  
+Usuário autenticado no sistema com `standard_user`.
+
+**Passos:**
+1. Acessar a tela de produtos
+2. Escolher um produto
+3. Clicar em Add to cart
+4. Verificar a alteração do botão do produto
+5. Verificar o contador do carrinho
+
+**Resultado esperado:**  
+O produto deve ser adicionado ao carrinho, o botão deve mudar para Remove e o contador do carrinho deve exibir a quantidade `1`.
+
+**Resultado obtido:**  
+O produto foi adicionado ao carrinho com sucesso, o botão foi alterado para Remove e o contador do carrinho passou a exibir `1`.
+
+**Status:**  
+Aprovado
+
+**Evidência:**  
+[Ver evidência CT-006](evidencias/CT-006-adicionar-produto-carrinho1.png)
