@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio de **Quality Assurance**.
 
-Este repositório reúne projetos práticos desenvolvidos durante minha evolução profissional em QA, com foco em **qualidade de software, análise de cenários, documentação de testes, investigação de bugs e automação**.
+Este repositório reúne projetos práticos desenvolvidos durante minha evolução profissional em QA, com foco em **qualidade de software, análise de cenários, documentação de testes, investigação de bugs e evolução em automação**.
 
 ## Sobre mim
 
@@ -26,11 +26,14 @@ Meu objetivo com este portfólio é demonstrar, na prática, minha evolução t�
 ### Testes de API
 
 - Postman
-- Requisições GET, POST, PUT, PATCH e DELETE
-- Validação de Status Codes
-- Validação de respostas JSON
+- Requisições GET, POST e PUT
+- Estrutura e validação de dados em JSON
+- Validação de status codes
+- Autenticação
+- Token e Basic Auth
+- Variáveis no Postman
 - Cenários positivos e negativos
-- Collections e Environments
+- Análise de respostas da API
 
 ### Banco de Dados
 
@@ -56,7 +59,11 @@ Execução de 12 casos de teste manuais na aplicação SauceDemo, cobrindo login
 
 ### Projeto 02 API Testing com Postman
 
-Em breve.
+Concluído.
+
+Testes de API realizados com Postman utilizando a Restful Booker, incluindo criação, consulta e atualização de reservas, autenticação, validação de respostas JSON e análise dos status codes `200`, `403`, `404` e `405`.
+
+O projeto inclui cenários positivos e negativos e a collection utilizada nos testes está disponível no repositório.
 
 ### Projeto 03 SQL para QA
 
@@ -75,13 +82,17 @@ Utilizar projetos práticos para desenvolver competências importantes para Qual
 - Identificar riscos
 - Encontrar e documentar defeitos
 - Validar APIs
+- Analisar respostas e status codes
+- Trabalhar com autenticação em APIs
 - Validar dados
-- Automatizar cenários de teste
+- Evoluir em automação de testes
 - Investigar problemas de forma estruturada
 
 ## Tecnologias e ferramentas
 
-`Jira` • `Postman` • `SQL` • `Git` • `GitHub` • `Playwright` • `Python`
+`Jira` • `Postman` • `Git` • `GitHub` • `Java`
+
+Em aprendizado: `SQL` • `Playwright`
 
 ## Em desenvolvimento
 
@@ -92,4 +103,8 @@ Atualmente aprofundando conhecimentos em:
 - API Testing
 - SQL para QA
 - Automação de testes com Playwright
-- CI/CD
+- Java
+
+---
+
+Karina
